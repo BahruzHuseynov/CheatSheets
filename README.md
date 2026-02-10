@@ -13,7 +13,7 @@
       <th colspan="3"> Libraries </th>
     </tr>
     <tr>
-      <th>Column 1</th>
+      <th> Os module</th>
       <th>Column 2</th>
       <th>Column 3</th>
     </tr>
@@ -25,7 +25,7 @@
       <td>Value C</td>
     </tr>
     <tr>
-      <td>Value D</td>
+      <td> <a href = "https://www.geeksforgeeks.org/python/os-module-python-examples/" target="_blank"> Python Examples </a> </td>
       <td>Value E</td>
       <td>Value F</td>
     </tr>
