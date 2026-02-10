@@ -57,11 +57,11 @@
   </thead>
   <tbody>
     <tr> 
-        <td> <img src = "Images/Icons/FastAPI_logo.png" height = "35"> </td>
+        <th> <img src = "Images/Icons/FastAPI_logo.png" height = "35"> </th>
         <td> FastAPI - Web Framework to build APIs </td>
         <td> https://www.devsheets.io/sheets/fastapi </td>
     </tr>
-        <td> <img src = "Images/Icons/PyTorch_logo.png" height = "35"> </td>
+        <th> <img src = "Images/Icons/PyTorch_logo.png" height = "35"> </th>
         <td> PyTorch - An open-source Machine Learning framework </td>
         <td> https://docs.pytorch.org/tutorials/beginner/basics/intro.html <br> 
         </td>
@@ -83,12 +83,12 @@
   </thead>
   <tbody>
     <tr> 
-        <td> <img src = "Images/Icons/PIL_logo.png" height = "35"> </td>
+        <th> <img src = "Images/Icons/PIL_logo.png" height = "35"> </th>
         <td> Pillow (PIL) - For simple image manipulations </td>
         <td> https://realpython.com/image-processing-with-the-python-pillow-library/ </td>
     </tr>
     <tr> 
-        <td> <img src = "Images/Icons/OpenCV_logo.png" height = "35"> </td>
+        <th> <img src = "Images/Icons/OpenCV_logo.png" height = "35"> </th>
         <td> OpenCV - For the advanced CV algorithms and high-performance processing, often involving video or machine learning integration </td>
         <td> https://www.tutorialspoint.com/opencv/python_opencv_cheatsheet.htm </td>
     </tr>
