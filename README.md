@@ -6,12 +6,6 @@
 
 <hr> <!----------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
-- CV means <b> Computer Vision </b> and its related libraries have been named like CV1, CV2.
-- Py means the cheatsheet is about the general Python (basics, classes and so on)
-- PyLib means the cheatsheet is about the specific external Python module
-
-<hr> <!----------------------------------------------------------------------------------------------------------------------------------------------------------------->
-
 
 <table>
   <thead>
