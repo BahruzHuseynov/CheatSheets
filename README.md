@@ -23,7 +23,7 @@
   </thead>
   <tbody>
     <tr> 
-        <td> <img src = "Images/Icons/Pytorch_logo.png" height = "30"> </td>
+        <td> <img src = "Images/Icons/Pytorch_logo.png" height = "25"> </td>
         <td> B </td>
         <td> C </td>
     </tr>
