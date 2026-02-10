@@ -1,5 +1,5 @@
 ## Cheat Sheet Information
-### Read the documentation of library or framework for the deep usage
+### Read the documentation of the library or the framework for the deep usage
 
 - The Cheat Sheets for <b> Python </b> and <b> its standard libraries </b>:  https://labex.io/pythoncheatsheet/
 - <b> Linux </b> Commands: https://cheatography.com/davechild/cheat-sheets/linux-command-line/ 
