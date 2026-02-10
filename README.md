@@ -13,16 +13,21 @@
       <th colspan="3"> Python External Libraries </th>
     </tr>
     <tr>
-      <th> </th>
+      <th> Icon </th>
       <th> Library name </th>
       <th> Additional Link </th>
     </tr>
   </thead>
   <tbody>
     <tr> 
-        <td> <img src = "Images/Icons/PyTorch_logo.png" height = "25"> </td>
-        <td> PyTorch </td>
-        <td> https://docs.pytorch.org/tutorials/beginner/basics/intro.html </td>
+        <td> <img src = "Images/Icons/Sk-learn_logo.png" height = "25"> </td>
+        <td> Scikit-learn - An open-source library for Machine Learning </td>
+        <td> The best is the documentation: https://scikit-learn.org/0.21/documentation.html </td>
+    </tr>
+    <tr> 
+        <td> <img src = "Images/Icons/Sk-learn_logo.png" height = "25"> </td>
+        <td> Scikit-learn - An open-source library for Machine Learning </td>
+        <td> The best is the documentation: https://scikit-learn.org/0.21/documentation.html </td>
     </tr>
   </tbody>
 </table>
