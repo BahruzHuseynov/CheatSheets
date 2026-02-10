@@ -20,22 +20,22 @@
   </thead>
   <tbody>
     <tr> 
-        <td> <img src = "Images/Icons/Pandas_logo.jpg" height = "35"> </td>
+        <th> <img src = "Images/Icons/Pandas_logo.jpg" height = "35"> </th>
         <td> Pandas - Data analysis and manipulations </td>
         <td> https://zerotomastery.io/blog/pandas-101-data-manipulation-with-pandas-and-python/ </td>
     </tr>
     <tr> 
-        <td> <img src = "Images/Icons/Matplotlib_logo.png" height = "35"> </td>
+        <th> <img src = "Images/Icons/Matplotlib_logo.png" height = "35"> </th>
         <td> Matplotlib - Used to create static and interactive data visualizations </td>
         <td> https://zerotomastery.io/blog/matplotlib-guide-python/ </td>
     </tr>
     <tr> 
-        <td> <img src = "Images/Icons/Seaborn_logo.png" height = "35"> </td>
+        <th> <img src = "Images/Icons/Seaborn_logo.png" height = "35"> </th>
         <td> Seaborn - It is based on the Matplotlib and used for the statistical graphics </td>
         <td> https://realpython.com/python-seaborn/ </td>
     </tr>
     <tr> 
-        <td> <img src = "Images/Icons/Sk-learn_logo.png" height = "25"> </td>
+        <th> <img src = "Images/Icons/Sk-learn_logo.png" height = "25"> </th>
         <td> Scikit-learn - An open-source library for Machine Learning </td>
         <td> The best is the documentation: <br> https://scikit-learn.org/0.21/documentation.html </td>
     </tr>
