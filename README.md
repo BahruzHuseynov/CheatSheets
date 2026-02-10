@@ -49,6 +49,10 @@
         <td> FastAPI - Web Framework to build APIs </td>
         <td> https://www.devsheets.io/sheets/fastapi </td>
     </tr>
+    <td> <img src = "Images/Icons/PyTorch_logo.png" height = "25"> </td>
+        <td> PyTorch - An open-source Machine Learning framework </td>
+        <td> https://docs.pytorch.org/tutorials/beginner/basics/intro.html <br> 
+        </td>
   </tbody>
 </table>
 
