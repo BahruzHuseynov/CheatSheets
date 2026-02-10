@@ -16,6 +16,28 @@
       <th colspan="3"> Python External Libraries </th>
     </tr>
     <tr>
+      <th> </th>
+      <th> Library name </th>
+      <th> Additional Link </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr> 
+        <td> <img src = "Images/Icons/Pytorch_logo.png" height = "30"> </td>
+        <td> B </td>
+        <td> C </td>
+    </tr>
+  </tbody>
+</table>
+
+<hr> <!----------------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="3"> Python Frameworks </th>
+    </tr>
+    <tr>
       <th> Logo </th>
       <th> Library name </th>
       <th> Additional Link </th>
@@ -35,29 +57,7 @@
 <table>
   <thead>
     <tr>
-      <th colspan="3"> Python External Libraries </th>
-    </tr>
-    <tr>
-      <th> Logo </th>
-      <th> Library name </th>
-      <th> Additional Link </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr> 
-        <td> A </td>
-        <td> B </td>
-        <td> C </td>
-    </tr>
-  </tbody>
-</table>
-
-<hr> <!----------------------------------------------------------------------------------------------------------------------------------------------------------------->
-
-<table>
-  <thead>
-    <tr>
-      <th colspan="3"> Python External Libraries </th>
+      <th colspan="3"> Computer Vision Materials </th>
     </tr>
     <tr>
       <th> Logo </th>
