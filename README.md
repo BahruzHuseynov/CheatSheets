@@ -1,6 +1,6 @@
 ### Cheat Sheet Information
-- The Cheat Sheets for Python and its standard libraries: <a href = "https://labex.io/pythoncheatsheet/" target = "_blank"> https://labex.io/pythoncheatsheet/ </a>
-- Linux Commands: <a href = "https://cheatography.com/davechild/cheat-sheets/linux-command-line/" target = "_blank"> https://cheatography.com/davechild/cheat-sheets/linux-command-line/ </a>
+- The Cheat Sheets for Python and its standard libraries:  https://labex.io/pythoncheatsheet/
+- Linux Commands: https://cheatography.com/davechild/cheat-sheets/linux-command-line/ 
 
 <hr> <!----------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
@@ -30,3 +30,46 @@
   </tbody>
 </table>
 
+<hr> <!----------------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="3"> Python External Libraries </th>
+    </tr>
+    <tr>
+      <th> Logo </th>
+      <th> Library name </th>
+      <th> Additional Link </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr> 
+        <td> A </td>
+        <td> B </td>
+        <td> C </td>
+    </tr>
+  </tbody>
+</table>
+
+<hr> <!----------------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="3"> Python External Libraries </th>
+    </tr>
+    <tr>
+      <th> Logo </th>
+      <th> Library name </th>
+      <th> Additional Link </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr> 
+        <td> A </td>
+        <td> B </td>
+        <td> C </td>
+    </tr>
+  </tbody>
+</table>
