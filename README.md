@@ -24,7 +24,7 @@
   <tbody>
     <tr> 
         <td> <img src = "Images/Icons/PyTorch_logo.png" height = "25"> </td>
-        <td> B </td>
+        <td> PyTorch </td>
         <td> C </td>
     </tr>
   </tbody>
@@ -35,19 +35,19 @@
 <table>
   <thead>
     <tr>
-      <th colspan="3"> Python Frameworks </th>
+      <th colspan="3"> Python Frameworks (Read DOCS for further usage) </th>
     </tr>
     <tr>
-      <th> Logo </th>
+      <th> Icon </th>
       <th> Library name </th>
       <th> Additional Link </th>
     </tr>
   </thead>
   <tbody>
     <tr> 
-        <td> A </td>
-        <td> B </td>
-        <td> C </td>
+        <td> <img src = "Images/Icons/FastAPI_logo.png" height = "25"> </td>
+        <td> FastAPI - Web Framework to build APIs </td>
+        <td> https://www.devsheets.io/sheets/fastapi </td>
     </tr>
   </tbody>
 </table>
