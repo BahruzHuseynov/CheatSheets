@@ -1,4 +1,6 @@
 ### Cheat Sheet Information
+## Read the documentation of library or framework for the deep usage
+
 - The Cheat Sheets for <b> Python </b> and <b> its standard libraries </b>:  https://labex.io/pythoncheatsheet/
 - <b> Linux </b> Commands: https://cheatography.com/davechild/cheat-sheets/linux-command-line/ 
 
@@ -9,6 +11,7 @@
 - PyLib means the cheatsheet is about the specific external Python module
 
 <hr> <!----------------------------------------------------------------------------------------------------------------------------------------------------------------->
+
 
 <table>
   <thead>
@@ -35,7 +38,7 @@
 <table>
   <thead>
     <tr>
-      <th colspan="3"> Python Frameworks (Read DOCS for further usage) </th>
+      <th colspan="3"> Python Frameworks </th>
     </tr>
     <tr>
       <th> Icon </th>
