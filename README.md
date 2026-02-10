@@ -25,7 +25,7 @@
     <tr> 
         <td> <img src = "Images/Icons/PyTorch_logo.png" height = "25"> </td>
         <td> PyTorch </td>
-        <td> C </td>
+        <td> https://docs.pytorch.org/tutorials/beginner/basics/intro.html </td>
     </tr>
   </tbody>
 </table>
