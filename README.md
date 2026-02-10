@@ -21,8 +21,8 @@
   <tbody>
     <tr> 
         <td> <img src = "Images/Icons/Pandas_logo.png" height = "35"> </td>
-        <td> Seaborn - It is based on the Matplotlib and used for the statistical graphics </td>
-        <td> https://realpython.com/python-seaborn/ </td>
+        <td> Pandas - Data analysis and manipulations </td>
+        <td> https://zerotomastery.io/blog/pandas-101-data-manipulation-with-pandas-and-python/ </td>
     </tr>
     <tr> 
         <td> <img src = "Images/Icons/Matplotlib_logo.png" height = "35"> </td>
@@ -32,7 +32,7 @@
     <tr> 
         <td> <img src = "Images/Icons/Seaborn_logo.png" height = "35"> </td>
         <td> Seaborn - It is based on the Matplotlib and used for the statistical graphics </td>
-        <td> https://zerotomastery.io/blog/matplotlib-guide-python/ </td>
+        <td> https://realpython.com/python-seaborn/ </td>
     </tr>
     <tr> 
         <td> <img src = "Images/Icons/Sk-learn_logo.png" height = "25"> </td>
