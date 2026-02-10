@@ -1,10 +1,10 @@
 ### Cheat Sheet Information
-- The Cheat Sheets for Python and its standard libraries:  https://labex.io/pythoncheatsheet/
-- Linux Commands: https://cheatography.com/davechild/cheat-sheets/linux-command-line/ 
+- The Cheat Sheets for <b> Python </b> and <b> its standard libraries </b>:  https://labex.io/pythoncheatsheet/
+- <b> Linux </b> Commands: https://cheatography.com/davechild/cheat-sheets/linux-command-line/ 
 
 <hr> <!----------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
-- CV means Computer Vision and its related libraries have been named like CV1, CV2.
+- CV means <b> Computer Vision </b> and its related libraries have been named like CV1, CV2.
 - Py means the cheatsheet is about the general Python (basics, classes and so on)
 - PyLib means the cheatsheet is about the specific external Python module
 
