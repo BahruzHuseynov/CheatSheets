@@ -49,7 +49,7 @@
         <td> FastAPI - Web Framework to build APIs </td>
         <td> https://www.devsheets.io/sheets/fastapi </td>
     </tr>
-    <td> <img src = "Images/Icons/PyTorch_logo.png" height = "25"> </td>
+        <td> <img src = "Images/Icons/PyTorch_logo.png" height = "25"> </td>
         <td> PyTorch - An open-source Machine Learning framework </td>
         <td> https://docs.pytorch.org/tutorials/beginner/basics/intro.html <br> 
         </td>
@@ -64,16 +64,21 @@
       <th colspan="3"> Computer Vision Materials </th>
     </tr>
     <tr>
-      <th> Logo </th>
+      <th> Icon </th>
       <th> Library name </th>
       <th> Additional Link </th>
     </tr>
   </thead>
   <tbody>
     <tr> 
-        <td> A </td>
-        <td> B </td>
-        <td> C </td>
+        <td> <img src = "Images/Icons/OpenCV_logo.png" height = "25"> </td>
+        <td> OpenCV </td>
+        <td> https://www.tutorialspoint.com/opencv/python_opencv_cheatsheet.htm </td>
+    </tr>
+    <tr> 
+        <td> <img src = "Images/Icons/PIL_logo.png" height = "25"> </td>
+        <td> Pillow </td>
+        <td> https://www.tutorialspoint.com/opencv/python_opencv_cheatsheet.htm </td>
     </tr>
   </tbody>
 </table>
