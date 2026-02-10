@@ -10,23 +10,24 @@
 <table>
   <thead>
     <tr>
-      <th colspan="3"> Libraries </th>
+      <th colspan="3"> Python Standard Libraries </th>
     </tr>
     <tr>
       <th> Library name </th>
-      <th> Link</th>
       <th> Link </th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>Os module</td>
-      <td>Value B</td>
-      <td><a href = "https://www.geeksforgeeks.org/python/os-module-python-examples/" target="_blank"> Python Examples </a></td></td>
+      <td>
+          <ul>
+              <li> <a href = "https://www.geeksforgeeks.org/python/os-module-python-examples/" target="_blank"> https://www.geeksforgeeks.org/python/os-module-python-examples/ </a> </li>
+          </ul>
+      </td>
     </tr>
     <tr>
       <td> 
-      <td>Value E</td>
       <td>Value F</td>
     </tr>
   </tbody>
