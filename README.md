@@ -9,7 +9,9 @@
 
 <table>
   <thead>
-    <tr> <th> Libraries </th> </tr>
+    <tr>
+      <th colspan="3"> Libraries </th>
+    </tr>
     <tr>
       <th>Column 1</th>
       <th>Column 2</th>
@@ -29,3 +31,4 @@
     </tr>
   </tbody>
 </table>
+
