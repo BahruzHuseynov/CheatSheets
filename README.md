@@ -18,7 +18,7 @@
     <tr>
       <th> Logo </th>
       <th> Library name </th>
-      <th> Link </th>
+      <th> Additional Link </th>
     </tr>
   </thead>
   <tbody>
