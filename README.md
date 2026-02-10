@@ -7,32 +7,25 @@
     + <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/FastAPI_logo.svg/3840px-FastAPI_logo.svg.png" height="20"/>  https://www.devsheets.io/sheets/fastapi
 - Linux Commands: https://cheatography.com/davechild/cheat-sheets/linux-command-line/
 
+
+- The Cheat Sheets for Python and its standard libraries: <a href = "https://labex.io/pythoncheatsheet/" target = "_blank"> https://labex.io/pythoncheatsheet/ </a>
+
 <table>
   <thead>
     <tr>
-      <th colspan="3"> Python Standard Libraries </th>
+      <th colspan="3"> Python External Libraries </th>
     </tr>
     <tr>
+      <th> Logo </th>
       <th> Library name </th>
       <th> Link </th>
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>Os module</td>
-      <td>
-          <ul>
-              <li> <a href = "https://www.geeksforgeeks.org/python/os-module-python-examples/" target="_blank"> https://www.geeksforgeeks.org/python/os-module-python-examples/ </a> </li>
-          </ul>
-      </td>
-    </tr>
-    <tr>
-      <td> Json module</td>
-      <td>
-          <ul>
-              <li> <a href = "https://www.geeksforgeeks.org/python/os-module-python-examples/" target="_blank"> https://www.geeksforgeeks.org/python/os-module-python-examples/ </a> </li>
-          </ul>
-      </td>
+    <tr> 
+        <td> A </td>
+        <td> B </td>
+        <td> C </td>
     </tr>
   </tbody>
 </table>
