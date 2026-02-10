@@ -20,9 +20,19 @@
   </thead>
   <tbody>
     <tr> 
-        <td> <img src = "Images/Icons/Sk-learn_logo.png" height = "25"> </td>
-        <td> Scikit-learn - An open-source library for Machine Learning </td>
-        <td> The best is the documentation: <br> https://scikit-learn.org/0.21/documentation.html </td>
+        <td> <img src = "Images/Icons/Pandas_logo.png" height = "25"> </td>
+        <td> Seaborn - It is based on the Matplotlib and used for the statistical graphics </td>
+        <td> https://realpython.com/python-seaborn/ </td>
+    </tr>
+    <tr> 
+        <td> <img src = "Images/Icons/Matplotlib_logo.png" height = "25"> </td>
+        <td> Matplotlib - Used to create static and interactive data visualizations </td>
+        <td> https://zerotomastery.io/blog/matplotlib-guide-python/ </td>
+    </tr>
+    <tr> 
+        <td> <img src = "Images/Icons/Seaborn_logo.png" height = "25"> </td>
+        <td> Seaborn - It is based on the Matplotlib and used for the statistical graphics </td>
+        <td> https://zerotomastery.io/blog/matplotlib-guide-python/ </td>
     </tr>
     <tr> 
         <td> <img src = "Images/Icons/Sk-learn_logo.png" height = "25"> </td>
