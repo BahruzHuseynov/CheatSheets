@@ -22,12 +22,12 @@
     <tr> 
         <td> <img src = "Images/Icons/Sk-learn_logo.png" height = "25"> </td>
         <td> Scikit-learn - An open-source library for Machine Learning </td>
-        <td> The best is the documentation <br> https://scikit-learn.org/0.21/documentation.html </td>
+        <td> The best is the documentation: <br> https://scikit-learn.org/0.21/documentation.html </td>
     </tr>
     <tr> 
         <td> <img src = "Images/Icons/Sk-learn_logo.png" height = "25"> </td>
         <td> Scikit-learn - An open-source library for Machine Learning </td>
-        <td> The best is the documentation <br> https://scikit-learn.org/0.21/documentation.html </td>
+        <td> The best is the documentation: <br> https://scikit-learn.org/0.21/documentation.html </td>
     </tr>
   </tbody>
 </table>
