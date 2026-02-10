@@ -20,17 +20,17 @@
   </thead>
   <tbody>
     <tr> 
-        <th> <img src = "Images/Icons/Pandas_logo.jpg" height = "35"> </th>
+        <th> <img src = "Images/Icons/Pandas_logo.jpg" height = "40"> </th>
         <td> Pandas - Data analysis and manipulations </td>
         <td> https://zerotomastery.io/blog/pandas-101-data-manipulation-with-pandas-and-python/ </td>
     </tr>
     <tr> 
-        <th> <img src = "Images/Icons/Matplotlib_logo.png" height = "35"> </th>
+        <th> <img src = "Images/Icons/Matplotlib_logo.png" height = "40"> </th>
         <td> Matplotlib - Used to create static and interactive data visualizations </td>
         <td> https://zerotomastery.io/blog/matplotlib-guide-python/ </td>
     </tr>
     <tr> 
-        <th> <img src = "Images/Icons/Seaborn_logo.png" height = "35"> </th>
+        <th> <img src = "Images/Icons/Seaborn_logo.png" height = "40"> </th>
         <td> Seaborn - It is based on the Matplotlib and used for the statistical graphics </td>
         <td> https://realpython.com/python-seaborn/ </td>
     </tr>
@@ -57,11 +57,11 @@
   </thead>
   <tbody>
     <tr> 
-        <th> <img src = "Images/Icons/FastAPI_logo.png" height = "35"> </th>
+        <th> <img src = "Images/Icons/FastAPI_logo.png" height = "40"> </th>
         <td> FastAPI - Web Framework to build APIs </td>
         <td> https://www.devsheets.io/sheets/fastapi </td>
     </tr>
-        <th> <img src = "Images/Icons/PyTorch_logo.png" height = "35"> </th>
+        <th> <img src = "Images/Icons/PyTorch_logo.png" height = "40"> </th>
         <td> PyTorch - An open-source Machine Learning framework </td>
         <td> https://docs.pytorch.org/tutorials/beginner/basics/intro.html <br> 
         </td>
@@ -83,12 +83,12 @@
   </thead>
   <tbody>
     <tr> 
-        <th> <img src = "Images/Icons/PIL_logo.png" height = "35"> </th>
+        <th> <img src = "Images/Icons/PIL_logo.png" height = "40"> </th>
         <td> Pillow (PIL) - For simple image manipulations </td>
         <td> https://realpython.com/image-processing-with-the-python-pillow-library/ </td>
     </tr>
     <tr> 
-        <th> <img src = "Images/Icons/OpenCV_logo.png" height = "35"> </th>
+        <th> <img src = "Images/Icons/OpenCV_logo.png" height = "40"> </th>
         <td> OpenCV - For the advanced CV algorithms and high-performance processing, often involving video or machine learning integration </td>
         <td> https://www.tutorialspoint.com/opencv/python_opencv_cheatsheet.htm </td>
     </tr>
