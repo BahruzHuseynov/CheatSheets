@@ -77,8 +77,11 @@
     </tr>
     <tr> 
         <td> <img src = "Images/Icons/PIL_logo.png" height = "25"> </td>
-        <td> Pillow </td>
-        <td> https://www.tutorialspoint.com/opencv/python_opencv_cheatsheet.htm </td>
+        <td> Pillow (PIL) </td>
+        <td> https://realpython.com/image-processing-with-the-python-pillow-library/ </td>
     </tr>
   </tbody>
 </table>
+
+<hr> <!----------------------------------------------------------------------------------------------------------------------------------------------------------------->
+
