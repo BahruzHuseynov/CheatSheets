@@ -80,7 +80,7 @@
     </tr>
     <tr> 
         <td> <img src = "Images/Icons/OpenCV_logo.png" height = "25"> </td>
-        <td> OpenCV - For the advanced CV algorithms (real time image processing)  </td>
+        <td> OpenCV - For the advanced CV algorithms and high-performance processing, often involving video or machine learning integration </td>
         <td> https://www.tutorialspoint.com/opencv/python_opencv_cheatsheet.htm </td>
     </tr>
   </tbody>
