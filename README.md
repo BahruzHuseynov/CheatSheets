@@ -9,7 +9,7 @@
 
 <table>
   <thead>
-    <tr> Libraries </tr>
+    <tr> <th> Libraries </th> </tr>
     <tr>
       <th>Column 1</th>
       <th>Column 2</th>
