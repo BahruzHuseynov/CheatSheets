@@ -1,4 +1,4 @@
-### Information
+### Cheat Sheet Information
 - The Cheat Sheets for Python and its standard libraries: <a href = "https://labex.io/pythoncheatsheet/" target = "_blank"> https://labex.io/pythoncheatsheet/ </a>
 - Linux Commands: <a href = "https://cheatography.com/davechild/cheat-sheets/linux-command-line/" target = "_blank"> https://cheatography.com/davechild/cheat-sheets/linux-command-line/ </a>
 
