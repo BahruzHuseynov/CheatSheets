@@ -2,7 +2,6 @@
 ### Read the documentation of the library or the framework for the deep usage
 
 - The Cheat Sheets for <b> Python </b> and <b> its standard libraries </b>:  https://labex.io/pythoncheatsheet/
-- <b> Linux </b> Commands: https://cheatography.com/davechild/cheat-sheets/linux-command-line/ 
 
 <hr> <!----------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
@@ -115,12 +114,12 @@
         <td> https://huggingface.co/docs/transformers/en/quicktour </td>
     </tr>
     <tr> 
-        <th> <img src = "Images/Icons/Linux_logo.png" height = "40"> </th>
+        <th> <img src = "Images/Icons/Linux_logo.jpg" height = "40"> </th>
         <td> Linux - Operating system </td>
-        <td>  </td>
+        <td> https://cheatography.com/davechild/cheat-sheets/linux-command-line/ </td>
     </tr>
     <tr> 
-        <th> <img src = "Images/Icons/Git_logo.png" height = "40"> </th>
+        <th> <img src = "Images/Icons/Git_logo.webp" height = "40"> </th>
         <td> Git and Github - Git is a version control system and Github is a platform visualizing Git repositories</td>
         <td>  </td>
     </tr>
