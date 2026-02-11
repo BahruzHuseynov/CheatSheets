@@ -97,3 +97,27 @@
 
 <hr> <!----------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
+<table>
+  <thead>
+    <tr>
+      <th colspan="3"> Other Tools and Platforms </th>
+    </tr>
+    <tr>
+      <th> Icon </th>
+      <th> Library name </th>
+      <th> Additional Link </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr> 
+        <th> <img src = "Images/Icons/PIL_logo.png" height = "40"> </th>
+        <td> Pillow (PIL) - For simple image manipulations </td>
+        <td> https://realpython.com/image-processing-with-the-python-pillow-library/ </td>
+    </tr>
+    <tr> 
+        <th> <img src = "Images/Icons/OpenCV_logo.png" height = "40"> </th>
+        <td> OpenCV - For the advanced CV algorithms and high-performance processing, often involving video or machine learning integration </td>
+        <td> https://www.tutorialspoint.com/opencv/python_opencv_cheatsheet.htm </td>
+    </tr>
+  </tbody>
+</table>
