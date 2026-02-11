@@ -115,9 +115,14 @@
         <td> https://huggingface.co/docs/transformers/en/quicktour </td>
     </tr>
     <tr> 
-        <th> <img src = "Images/Icons/OpenCV_logo.png" height = "40"> </th>
-        <td> OpenCV - For the advanced CV algorithms and high-performance processing, often involving video or machine learning integration </td>
-        <td> https://www.tutorialspoint.com/opencv/python_opencv_cheatsheet.htm </td>
+        <th> <img src = "Images/Icons/Linux_logo.png" height = "40"> </th>
+        <td> Linux - Operating system </td>
+        <td>  </td>
+    </tr>
+    <tr> 
+        <th> <img src = "Images/Icons/Git_logo.png" height = "40"> </th>
+        <td> Git and Github - Git is a version control system and Github is a platform visualizing Git repositories</td>
+        <td>  </td>
     </tr>
   </tbody>
 </table>
