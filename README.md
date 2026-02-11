@@ -110,9 +110,9 @@
   </thead>
   <tbody>
     <tr> 
-        <th> <img src = "Images/Icons/PIL_logo.png" height = "40"> </th>
-        <td> Pillow (PIL) - For simple image manipulations </td>
-        <td> https://realpython.com/image-processing-with-the-python-pillow-library/ </td>
+        <th> <img src = "Images/Icons/HF_logo.png" height = "40"> </th>
+        <td> HuggingFace - AI platform and community where datasets, model checkpoints are publicly shared </td>
+        <td> https://huggingface.co/docs/transformers/en/quicktour </td>
     </tr>
     <tr> 
         <th> <img src = "Images/Icons/OpenCV_logo.png" height = "40"> </th>
