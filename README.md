@@ -123,6 +123,11 @@
         <td> Git and Github - Git is a version control system and Github is a platform visualizing Git repositories</td>
         <td>  </td>
     </tr>
+    <tr> 
+        <th> <img src = "Images/Icons/ML_Flow_Logo.png" height = "40"> </th>
+        <td> MLFlow - It is fully free AI lifecycle management platform. There are other better priced and cloud platforms, too: Weights and Biases,  </td>
+        <td>  </td>
+    </tr>
   </tbody>
 </table>
 
