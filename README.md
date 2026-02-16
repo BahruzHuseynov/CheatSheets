@@ -39,7 +39,7 @@
         <td> The best is the documentation: <br> https://scikit-learn.org/0.21/documentation.html </td>
     </tr>
     <tr> 
-        <th> <img src = "Images/Icons/Sqlite3_Logo.png" height = "25"> </th>
+        <th> <img src = "Images/Icons/Sqlite3_Logo.png" height = "35"> </th>
         <td> A Python library for DB manipulation </td>
         <td> The best is the documentation: <br> https://docs.python.org/3/library/sqlite3.html </td>
     </tr>
