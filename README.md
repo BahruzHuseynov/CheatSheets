@@ -40,7 +40,7 @@
     </tr>
     <tr> 
         <th> <img src = "Images/Icons/Sqlite3_Logo.png" height = "35"> </th>
-        <td> A Python library for DB manipulation </td>
+        <td> Sqlite 3 Lib - A Python library for DB manipulation </td>
         <td> The best is the documentation: <br> https://docs.python.org/3/library/sqlite3.html </td>
     </tr>
   </tbody>
