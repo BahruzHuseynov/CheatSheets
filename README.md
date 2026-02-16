@@ -124,8 +124,8 @@
         <td>  </td>
     </tr>
     <tr> 
-        <th> <img src = "Images/Icons/ML_Flow_logo.png" height = "40"> </th>
-        <td> MLFlow - It is fully free AI lifecycle management platform. There are other better priced and cloud platforms, too: Weights and Biases <img src = "Images/Icons/W&B_logo.png" height = "15">, VertexAI </td>
+        <th> <img src = "Images/Icons/ML_Flow_logo.png" height = "50"> </th>
+        <td> MLFlow - It is fully free AI lifecycle management platform. There are other better priced and cloud platforms, too: Weights and Biases <img src = "Images/Icons/W&B_logo.png" height = "10">, VertexAI </td>
         <td>  </td>
     </tr>
   </tbody>
