@@ -130,7 +130,7 @@
     </tr>
     <tr> 
         <th> <img src = "Images/Icons/Docker_logo.png" height = "40"> </th>
-        <td> Docker - AI platform and community where datasets, model checkpoints are publicly shared </td>
+        <td> Docker - An open-source platform that packages applications and all their dependencies into lightweight, portable, and isolated containers, ensuring they run consistently on any machine. </td>
         <td> https://huggingface.co/docs/transformers/en/quicktour </td>
     </tr>
     <tr> 
