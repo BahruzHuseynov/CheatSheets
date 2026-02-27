@@ -129,9 +129,9 @@
         <td>  </td>
     </tr>
     <tr> 
-        <th> <img src = "Images/Icons/Docker_logo.png" height = "40"> </th>
+        <th> <img src = "Images/Icons/Docker_logo.jpg" height = "40"> </th>
         <td> Docker - An open-source platform that packages applications and all their dependencies into lightweight, portable, and isolated containers, ensuring they run consistently on any machine. </td>
-        <td> https://huggingface.co/docs/transformers/en/quicktour </td>
+        <td>  </td>
     </tr>
     <tr> 
         <th> <img src = "Images/Icons/ML_Flow_logo.png" height = "50"> </th>
