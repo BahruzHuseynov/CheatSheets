@@ -129,6 +129,11 @@
         <td>  </td>
     </tr>
     <tr> 
+        <th> <img src = "Images/Icons/Docker_logo.png" height = "40"> </th>
+        <td> Docker - AI platform and community where datasets, model checkpoints are publicly shared </td>
+        <td> https://huggingface.co/docs/transformers/en/quicktour </td>
+    </tr>
+    <tr> 
         <th> <img src = "Images/Icons/ML_Flow_logo.png" height = "50"> </th>
         <td> 
           MLFlow - It is fully free AI lifecycle management platform. There are other better priced and cloud platforms: <img src = "Images/Icons/W&B_logo.png" height = "14"> (Weights and Biases), <img src = "Images/Icons/VertexAI_logo.webp" height = "14"> (VertexAI)
