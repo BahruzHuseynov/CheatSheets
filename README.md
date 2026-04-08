@@ -55,7 +55,7 @@
     </tr>
     <tr>
       <th> Icon </th>
-      <th> Library name </th>
+      <th> Framework name </th>
       <th> Additional Link </th>
     </tr>
   </thead>
@@ -65,10 +65,18 @@
         <td> FastAPI - Web Framework to build APIs </td>
         <td> https://www.devsheets.io/sheets/fastapi </td>
     </tr>
+    <tr>
         <th> <img src = "Images/Icons/PyTorch_logo.png" height = "40"> </th>
         <td> PyTorch - An open-source Machine Learning framework </td>
         <td> https://docs.pytorch.org/tutorials/beginner/basics/intro.html <br> 
         </td>
+    </tr>
+    <tr>
+        <th> <img src = "Images/Icons/LangChain_logo.png" height = "40"> </th>
+        <td> LangChain - An open-source development framework designed to build applications powered by large language models (LLMs) like GPT-4, Claude, and HuggingFace models </td>
+        <td>  <br> 
+        </td>
+    </tr>
   </tbody>
 </table>
 
