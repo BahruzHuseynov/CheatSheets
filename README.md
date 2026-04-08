@@ -73,7 +73,7 @@
     </tr>
     <tr>
         <th> <img src = "Images/Icons/LangChain_logo.png" height = "40"> </th>
-        <td> LangChain - An open-source development framework designed to build applications powered by large language models (LLMs) like GPT-4, Claude, and HuggingFace models </td>
+        <td> LangChain - An open-source development framework designed to build applications powered by LLMs and HuggingFace models </td>
         <td>  <br> 
         </td>
     </tr>
