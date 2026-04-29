@@ -78,7 +78,7 @@
     </tr>
     <tr>
         <th> <img src = "Images/Icons/LangGraph_logo.png" height = "40"> </th>
-        <td> LangGraph - An open-source development framework designed to build applications powered by LLMs and HuggingFace models </td>
+        <td> LangGraph - An open-source orchestration framework developed by LangChain designed to build AI agent workflows </td>
         <td> https://sumanmichael.github.io/langgraph-cheatsheet/ </td>
     </tr>
   </tbody>
