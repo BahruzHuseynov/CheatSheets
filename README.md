@@ -71,6 +71,11 @@
         <td>  https://docs.pytorch.org/tutorials/beginner/basics/intro.html </td>
     </tr>
     <tr>
+        <th> <img src = "Images/Icons/PyTorch_Lightning_logo.png" height = "40"> </th>
+        <td> PyTorch Lightning - A wrapper that removes boilerplate code to let you focus on model design </td>
+        <td> https://github.com/Lightning-AI/pytorch-lightning </td>
+    </tr>
+    <tr>
         <th> <img src = "Images/Icons/LangChain_logo.png" height = "40"> </th>
         <td> LangChain - An open-source development framework designed to build applications powered by LLMs and HuggingFace models </td>
         <td>  <br> 
