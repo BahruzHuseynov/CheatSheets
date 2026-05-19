@@ -157,6 +157,13 @@
         </td>
         <td> The best is the documentation: https://mlflow.org/ </td>
     </tr>
+     <tr> 
+        <th> <img src = "Images/Icons/vLLM_logo.png" height = "50"> </th>
+        <td> 
+          vLLM - It is a high-throughput, memory-efficient open-source engine designed for running and serving Large Language Models (LLMs): 
+        </td>
+        <td> The best is the documentation: https://docs.vllm.ai/en/latest/models/generative_models/#llmgenerate </td>
+    </tr>
   </tbody>
 </table>
 
