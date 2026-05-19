@@ -143,7 +143,7 @@
     <tr> 
         <th> <img src = "Images/Icons/Git_logo.webp" height = "40"> </th>
         <td> Git and Github - Git is a version control system and Github is a platform visualizing Git repositories</td>
-        <td>  </td>
+        <td> https://medium.com/@obaff/git-and-github-tutorial-for-beginners-9abae4a530d4 </td>
     </tr>
     <tr> 
         <th> <img src = "Images/Icons/Docker_logo.jpg" height = "40"> </th>
