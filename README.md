@@ -125,7 +125,7 @@
     </tr>
     <tr>
       <th> Icon </th>
-      <th> Library name </th>
+      <th> Platform name </th>
       <th> Additional Link </th>
     </tr>
   </thead>
