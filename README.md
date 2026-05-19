@@ -158,7 +158,7 @@
         <td> The best is the documentation: https://mlflow.org/ </td>
     </tr>
      <tr> 
-        <th> <img src = "Images/Icons/vLLM_logo.png" height = "50"> </th>
+        <th> <img src = "Images/Icons/vLLM_logo.webp" height = "50"> </th>
         <td> 
           vLLM - It is a high-throughput, memory-efficient open-source engine designed for running and serving Large Language Models (LLMs): 
         </td>
