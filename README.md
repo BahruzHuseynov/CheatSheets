@@ -44,7 +44,7 @@
         <td> https://docs.python.org/3/library/sqlite3.html </td>
     </tr>
     <tr> 
-        <th> <img src = "Images/Icons/SQLModel_Logo.png" height = "35"> </th>
+        <th> <img src = "Images/Icons/SQLModel_Logo.svg" height = "35"> </th>
         <td> SQLModel is a Python library that merges Pydantic validation and SQLAlchemy ORM mapping into a single, unified data model </td>
         <td> https://sqlmodel.tiangolo.com/tutorial/ </td>
     </tr>
