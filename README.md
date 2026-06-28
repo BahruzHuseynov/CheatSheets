@@ -121,6 +121,28 @@
 <table>
   <thead>
     <tr>
+      <th colspan="3"> Database Management System (DBMS) </th>
+    </tr>
+    <tr>
+      <th> Icon </th>
+      <th> Library name </th>
+      <th> Additional Link </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr> 
+        <th> <img src = "Images/Icons/Sqlite_log.jpg" height = "40"> </th>
+        <td> Sqlite3 - stores everything in a single file (.db) </td>
+        <td> https://www.dbpro.app/learn/sqlite/cheat-sheet </td>
+    </tr>
+  </tbody>
+</table>
+
+<hr> <!----------------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+<table>
+  <thead>
+    <tr>
       <th colspan="3"> Other Tools and Platforms </th>
     </tr>
     <tr>
