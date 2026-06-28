@@ -131,7 +131,7 @@
   </thead>
   <tbody>
     <tr> 
-        <th> <img src = "Images/Icons/Sqlite_log.jpg" height = "40"> </th>
+        <th> <img src = "Images/Icons/Sqlite3_Logo.jpg" height = "40"> </th>
         <td> Sqlite3 - stores everything in a single file (.db) </td>
         <td> https://www.dbpro.app/learn/sqlite/cheat-sheet </td>
     </tr>
