@@ -43,6 +43,11 @@
         <td> Sqlite 3 Lib - A Python library for DB manipulation </td>
         <td> https://docs.python.org/3/library/sqlite3.html </td>
     </tr>
+    <tr>
+        <th> <img src = "Images/Icons/Optuna_logo.png" height = "40"> </th>
+        <td> Optuna is a framework-agnostic hyperparameter optimization library. It supports frameworks such as PyTorch, TensorFlow, XGBoost, and LightGBM, and uses optimization algorithms like the Tree-structured Parzen Estimator (TPE) along with trial pruning.</td>
+        <td> https://optuna.org/#code_examples </td>
+    </tr>
     <tr> 
         <th> <img src = "Images/Icons/SQLModel_Logo.svg" height = "35"> </th>
         <td> SQLModel is a Python library that merges Pydantic validation and SQLAlchemy ORM mapping into a single, unified data model </td>
@@ -79,11 +84,6 @@
         <th> <img src = "Images/Icons/PyTorch_Lightning_logo.png" height = "40"> </th>
         <td> PyTorch Lightning - A wrapper that removes boilerplate code to let you focus on model design </td>
         <td> https://github.com/Lightning-AI/pytorch-lightning </td>
-    </tr>
-    <tr>
-        <th> <img src = "Images/Icons/PyTorch_Optuna_logo.png" height = "40"> </th>
-        <td> Optuna is a framework-agnostic hyperparameter optimization library that automatically finds optimal hyperparameters for machine learning and deep learning models. It supports frameworks such as PyTorch, TensorFlow, XGBoost, and LightGBM, and uses optimization algorithms like the Tree-structured Parzen Estimator (TPE) along with trial pruning to efficiently search the hyperparameter space and accelerate the optimization process.</td>
-        <td> https://optuna.org/#code_examples </td>
     </tr>
     <tr>
         <th> <img src = "Images/Icons/LangChain_logo.png" height = "40"> </th>
