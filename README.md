@@ -44,8 +44,8 @@
         <td> https://docs.python.org/3/library/sqlite3.html </td>
     </tr>
     <tr>
-        <th> <img src = "Images/Icons/Optuna_logo.png" height = "40"> </th>
-        <td> Optuna is a framework-agnostic hyperparameter optimization library. It supports frameworks such as PyTorch, TensorFlow, XGBoost, and LightGBM, and uses optimization algorithms like the Tree-structured Parzen Estimator (TPE) along with trial pruning.</td>
+        <th> <img src = "Images/Icons/Optuna_logo.jpg" height = "40"> </th>
+        <td> Optuna is a framework-agnostic hyperparameter optimization library supporting PyTorch, TensorFlow, XGBoost and uses optimization algorithms like the Tree-structured Parzen Estimator (TPE).</td>
         <td> https://optuna.org/#code_examples </td>
     </tr>
     <tr> 
