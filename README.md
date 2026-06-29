@@ -81,6 +81,11 @@
         <td> https://github.com/Lightning-AI/pytorch-lightning </td>
     </tr>
     <tr>
+        <th> <img src = "Images/Icons/PyTorch_Optuna_logo.png" height = "40"> </th>
+        <td> Optuna is a framework-agnostic hyperparameter optimization library that automatically finds optimal hyperparameters for machine learning and deep learning models. It supports frameworks such as PyTorch, TensorFlow, XGBoost, and LightGBM, and uses optimization algorithms like the Tree-structured Parzen Estimator (TPE) along with trial pruning to efficiently search the hyperparameter space and accelerate the optimization process.</td>
+        <td> https://optuna.org/#code_examples </td>
+    </tr>
+    <tr>
         <th> <img src = "Images/Icons/LangChain_logo.png" height = "40"> </th>
         <td> LangChain - An open-source development framework designed to build applications powered by LLMs and HuggingFace models </td>
         <td>  <br> 
