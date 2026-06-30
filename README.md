@@ -5,7 +5,6 @@
 
 <hr> <!----------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
-
 <table>
   <thead>
     <tr>
@@ -88,7 +87,7 @@
     <tr>
         <th> <img src = "Images/Icons/LangChain_logo.png" height = "40"> </th>
         <td> LangChain - An open-source development framework designed to build applications powered by LLMs and HuggingFace models </td>
-        <td>  <br> 
+        <td> https://docs.langchain.com/oss/python/langchain/overview <br> 
         </td>
     </tr>
     <tr>
@@ -198,7 +197,6 @@
     </tr>
   </tbody>
 </table>
-
 
 <hr> <!----------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
