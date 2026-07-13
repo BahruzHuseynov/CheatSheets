@@ -95,6 +95,11 @@
         <td> LangGraph - An open-source orchestration framework developed by LangChain designed to build AI agent workflows </td>
         <td> https://sumanmichael.github.io/langgraph-cheatsheet/ </td>
     </tr>
+    <tr>
+        <th> <img src = "Images/Icons/CrewAI_logo.png" height = "40"> </th>
+        <td> CrewAI - An open-source framework that orchestrates teams of autonomous AI agents to collaborate on complex tasks </td>
+        <td> https://docs.crewai.com/v1.15.2/en/introduction </td>
+    </tr>
   </tbody>
 </table>
 
