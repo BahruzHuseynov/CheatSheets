@@ -101,7 +101,7 @@
         <td> https://docs.crewai.com/v1.15.2/en/introduction </td>
     </tr>
     <tr>
-        <th> <img src = "Images/Icons/A2G_logo.png" height = "40"> </th>
+        <th> <img src = "Images/Icons/A2G_logo.svg" height = "40"> </th>
         <td> Microsoft AutoGen - It is an open-source framework designed to build AI agent applications </td>
         <td> https://docs.ag2.ai/docs/user-guide/quick-start/ </td>
     </tr>
