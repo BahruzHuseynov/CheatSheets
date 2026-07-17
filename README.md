@@ -52,6 +52,13 @@
         <td> SQLModel is a Python library that merges Pydantic validation and SQLAlchemy ORM mapping into a single, unified data model </td>
         <td> https://sqlmodel.tiangolo.com/tutorial/ </td>
     </tr>
+  <tr> 
+        <th> <img src = "Images/Icons/FastMCP_Logo.png" height = "35"> </th>
+        <td> FastMCP is a high-level library designed for building Model Context Protocol (MCP) servers and clients </td>
+        <td> https://gofastmcp.com/getting-started/welcome </td>
+    </tr>
+
+    
   </tbody>
 </table>
 
