@@ -57,6 +57,13 @@
         <td> FastMCP is a high-level library designed for building Model Context Protocol (MCP) servers and clients </td>
         <td> https://gofastmcp.com/getting-started/welcome </td>
     </tr>
+    <tr> 
+        <th> <img src = "Images/Icons/Gradio_Logo.png" height = "35"> </th>
+        <td> Gradio - A library to build interactive web-based user interfaces quickly </td>
+        <td> https://gradio.app/ </td>
+    </tr>
+
+    
 
     
   </tbody>
