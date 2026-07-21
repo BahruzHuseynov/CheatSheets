@@ -60,7 +60,7 @@
     <tr> 
         <th> <img src = "Images/Icons/Gradio_Logo.png" height = "35"> </th>
         <td> Gradio - A library to build interactive web-based user interfaces quickly </td>
-        <td> https://gradio.app/ </td>
+        <td> https://gradio.app/ or https://www.datacamp.com/tutorial/gradio-python-tutorial</td>
     </tr>
 
     
