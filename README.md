@@ -61,11 +61,7 @@
         <th> <img src = "Images/Icons/Gradio_Logo.png" height = "35"> </th>
         <td> Gradio - A library to build interactive web-based user interfaces quickly </td>
         <td> https://gradio.app/ or https://www.datacamp.com/tutorial/gradio-python-tutorial</td>
-    </tr>
-
-    
-
-    
+    </tr>    
   </tbody>
 </table>
 
@@ -169,6 +165,11 @@
         <th> <img src = "Images/Icons/Sqlite_logo.jpg" height = "40"> </th>
         <td> Sqlite3 - stores everything in a single file (.db) </td>
         <td> https://www.dbpro.app/learn/sqlite/cheat-sheet </td>
+    </tr>
+    <tr> 
+        <th> <img src = "Images/Icons/ChromaDB_logo.png" height = "40"> </th>
+        <td> ChromaDB serves as an open-source vector database that provides a semantic memory layer for AI apps </td>
+        <td> https://www.geeksforgeeks.org/nlp/introduction-to-chromadb/ </td>
     </tr>
   </tbody>
 </table>
