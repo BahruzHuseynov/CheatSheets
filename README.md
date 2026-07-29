@@ -52,6 +52,11 @@
         <td> SQLModel is a Python library that merges Pydantic validation and SQLAlchemy ORM mapping into a single, unified data model </td>
         <td> https://sqlmodel.tiangolo.com/tutorial/ </td>
     </tr>
+    <tr> 
+        <th> <img src = "Images/Icons/DuckDB_logo.png" height = "40"> </th>
+        <td> DuckDB is an embedded Python library that runs fast SQL queries directly on disk files to analyze large files without running out of RAM. </td>
+        <td> https://duckdb.org/docs/lts/clients/python/overview </td>
+    </tr>
   <tr> 
         <th> <img src = "Images/Icons/FastMCP_Logo.png" height = "35"> </th>
         <td> FastMCP is a high-level library designed for building Model Context Protocol (MCP) servers and clients </td>
@@ -170,7 +175,7 @@
         <th> <img src = "Images/Icons/ChromaDB_logo.png" height = "40"> </th>
         <td> ChromaDB serves as an open-source vector database that provides a semantic memory layer for AI apps </td>
         <td> https://www.geeksforgeeks.org/nlp/introduction-to-chromadb/ </td>
-    </tr>
+    </tr>    
   </tbody>
 </table>
 
