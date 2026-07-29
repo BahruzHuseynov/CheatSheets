@@ -53,7 +53,7 @@
         <td> https://sqlmodel.tiangolo.com/tutorial/ </td>
     </tr>
     <tr> 
-        <th> <img src = "Images/Icons/DuckDB_logo.png" height = "40"> </th>
+        <th> <img src = "Images/Icons/duckdb_logo.jpg" height = "40"> </th>
         <td> DuckDB is an embedded Python library that runs fast SQL queries directly on disk files to analyze large files without running out of RAM. </td>
         <td> https://duckdb.org/docs/lts/clients/python/overview </td>
     </tr>
