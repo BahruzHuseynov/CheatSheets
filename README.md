@@ -111,6 +111,13 @@
         <td> https://sumanmichael.github.io/langgraph-cheatsheet/ </td>
     </tr>
     <tr>
+        <th> <img src = "Images/Icons/LLamaIndex_logo.png" height = "40"> </th>
+        <td> LLamaIndex is an open-source data framework designed to connect private and domain-specific data with LLMs </td>
+        <td> https://www.llamaindex.ai/ <br> 
+        </td>
+    </tr>
+    
+    <tr>
         <th> <img src = "Images/Icons/CrewAI_logo.png" height = "40"> </th>
         <td> CrewAI - An open-source framework that orchestrates teams of autonomous AI agents to collaborate on complex tasks </td>
         <td> https://docs.crewai.com/v1.15.2/en/introduction </td>
