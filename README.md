@@ -113,10 +113,8 @@
     <tr>
         <th> <img src = "Images/Icons/LLamaIndex_logo.png" height = "40"> </th>
         <td> LLamaIndex is an open-source data framework designed to connect private and domain-specific data with LLMs </td>
-        <td> https://www.llamaindex.ai/ <br> 
-        </td>
+        <td> https://www.llamaindex.ai/ </td>
     </tr>
-    
     <tr>
         <th> <img src = "Images/Icons/CrewAI_logo.png" height = "40"> </th>
         <td> CrewAI - An open-source framework that orchestrates teams of autonomous AI agents to collaborate on complex tasks </td>
