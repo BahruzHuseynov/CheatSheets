@@ -125,8 +125,11 @@
         <td> Microsoft AutoGen - It is an open-source framework designed to build AI agent applications </td>
         <td> https://docs.ag2.ai/docs/user-guide/quick-start/ </td>
     </tr>
-
-    
+    <tr>
+        <th> <img src = "Images/Icons/GuardRails_logo.png" height = "40"> </th>
+        <td> GuardRails filter user inputs, AI tool calls and outputs to block harmful, inaccurate, or confidential data. </td>
+        <td> https://guardrailsai.com/guardrails/docs/how-to-guides/using_llms </td>
+    </tr>  
   </tbody>
 </table>
 
