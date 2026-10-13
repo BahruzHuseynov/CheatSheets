@@ -219,7 +219,7 @@
     <tr> 
         <th> <img src = "Images/Icons/Docker_logo.jpg" height = "40"> </th>
         <td> An open-source platform that packages applications and all their dependencies into lightweight, portable, and isolated containers, ensuring they run consistently on any machine. </td>
-        <td> https://docs.docker.com/reference/dockerfile/ <br> 
+        <td> https://docs.docker.com/reference/dockerfile/ <br> <br>
         https://dev.to/davidmm1707/docker-basics-for-beginners-49l9</td>
     </tr>
     <tr> 
